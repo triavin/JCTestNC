@@ -24,7 +24,7 @@ public class CalculatorTest {
         int b = 5;
 
         int expected = 5;
-        int actual = calculator.add(a,b);
+        int actual = calculator.subtract(a,b);
 
         Assert.assertEquals(actual, expected);
 
