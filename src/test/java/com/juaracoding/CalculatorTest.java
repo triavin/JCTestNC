@@ -3,6 +3,8 @@ package com.juaracoding;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 public class CalculatorTest {
+
+    // test untuk menguji hasil penjumlahan
     @Test
     public void testAdd(){
         Calculator calculator = new Calculator();
@@ -16,6 +18,8 @@ public class CalculatorTest {
         Assert.assertEquals(actual, expected);
 
     }
+
+    // test untuk menguji hasil pengurangan
     @Test
     public void testSubtrack(){
         Calculator calculator = new Calculator();
