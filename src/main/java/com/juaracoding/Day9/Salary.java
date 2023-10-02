@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.Day9;
 
 public class Salary {
     public double cekGajiBersih(double gaji, String jenisKelamin){

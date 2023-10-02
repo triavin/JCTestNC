@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.Day9;
 
 public class Kotak {
     // method menghitung luas kotak

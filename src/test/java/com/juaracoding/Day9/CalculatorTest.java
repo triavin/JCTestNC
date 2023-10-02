@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.Day9;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
